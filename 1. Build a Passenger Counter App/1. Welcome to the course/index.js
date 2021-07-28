@@ -47,7 +47,7 @@ let myDogAge = myAge * humanDogRatio
 console.log(myDogAge)
 */
 
-let count = 5
+// let count = 5
 
 // count + 1
 // count = 3
@@ -103,3 +103,5 @@ console.log(bonusPoints)
 bonusPoints = bonusPoints + 45
 console.log(bonusPoints)
 */
+
+//// Exercise – Adding button
